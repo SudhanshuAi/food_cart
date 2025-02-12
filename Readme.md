@@ -18,11 +18,11 @@ This is a simple frontend web application for a food cart, developed using HTML,
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/food-cart-frontend.git
+   https://github.com/SudhanshuAi/food_cart
    ```
 2. Navigate to the project directory:
    ```sh
-   cd food-cart-frontend
+   cd food_cart
    ```
 3. Open `index.html` in a web browser.
 
